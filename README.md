@@ -1,4 +1,6 @@
-# DMX, for `no_std`
+# [WIP] DMX, for `no_std`
+
+This is a work-in-progress and does not work yet
 
 ## Features:
 * `receiver`: Enable receive functionality
